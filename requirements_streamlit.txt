@@ -1,6 +1,6 @@
 streamlit>=1.28.0
 together>=0.2.7
 python-dotenv>=1.0.0
-opencv-python-headless>=4.8.0
+opencv-python-headless==4.8.0.74
 Pillow>=10.0.0
 numpy>=1.24.0
